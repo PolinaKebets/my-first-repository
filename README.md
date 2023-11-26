@@ -2,7 +2,7 @@
 
 ### My name is PANDA
 
-![mu photo].(https://www.google.com/url?sa=i&url=https%3A%2F%2Fkartinki.pics%2F107274-milye-pandochki-kartinki.html&psig=AOvVaw3Uf2MdFCrVfWWUrYjI_gGy&ust=1701080798250000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKi30dy54YIDFQAAAAAdAAAAABAD)
+![my photo].(https://www.google.com/url?sa=i&url=https%3A%2F%2Fkartinki.pics%2F107274-milye-pandochki-kartinki.html&psig=AOvVaw3Uf2MdFCrVfWWUrYjI_gGy&ust=1701080798250000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKi30dy54YIDFQAAAAAdAAAAABAD)
 
 
 **I'm javascript developer!**
