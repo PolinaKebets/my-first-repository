@@ -2,7 +2,7 @@
 
 ### My name is PANDA
 
-![my photo].(https://www.google.com/url?sa=i&url=https%3A%2F%2Fkartinki.pics%2F107274-milye-pandochki-kartinki.html&psig=AOvVaw3Uf2MdFCrVfWWUrYjI_gGy&ust=1701080798250000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKi30dy54YIDFQAAAAAdAAAAABAD)
+![my photo](https://www.google.com/url?sa=i&url=https%3A%2F%2Fadme.media%2Fzhizn-zhivotnye%2Fodna-iz-treh-pand-zhivuschih-v-yuzhnoj-koree-rodila-bliznecov-i-privlekla-vnimanie-vsego-mira-tolko-vzglyanite-na-etih-milah-2522379%2F&psig=AOvVaw2Qjt8LC9naXq-wlsPcp-kc&ust=1701080881492000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKj5t4e64YIDFQAAAAAdAAAAABAD)
 
 
 **I'm javascript developer!**
