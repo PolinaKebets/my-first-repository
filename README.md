@@ -2,7 +2,7 @@
 
 ### My name is PANDA
 
-![my photo]([https://upload.wikimedia.org/wikipedia/commons/9/90/Giant_Panda_2.JPG](https://upload.wikimedia.org/wikipedia/commons/0/0e/Atlanta_Zoo_Panda.jpg))
+![my photo](https://upload.wikimedia.org/wikipedia/commons/9/90/Giant_Panda_2.JPG)
 
 
 **I'm javascript developer!**
